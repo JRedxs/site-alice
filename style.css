@@ -54,3 +54,34 @@
     height: auto;
     display: none;
 }
+
+.btn-download {
+    font-family: 'Cabin Sketch', cursive;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    font-size: inherit;
+    color: inherit;
+    display: inline;
+}
+
+
+.btn-download span:nth-child(1) { color: #e63946; }
+.btn-download span:nth-child(2) { color: #70726f; }
+.btn-download span:nth-child(3) { color: #a8dadc; }
+.btn-download span:nth-child(4) { color: #457b9d; }
+.btn-download span:nth-child(5) { color: #1d3557; }
+.btn-download span:nth-child(6) { color: #ff6f61; }
+.btn-download span:nth-child(7) { color: #6a0572; }
+.btn-download span:nth-child(8) { color: #ffcc00; }
+.btn-download span:nth-child(9) { color: #4caf50; }
+.btn-download span:nth-child(10) { color: #ff9800; }
+.btn-download span:nth-child(11) { color: #3f51b5; }
+.btn-download span:nth-child(12) { color: #795548; }
+.btn-download span:nth-child(13) { color: #9c27b0; }
+.btn-download span:nth-child(14) { color: #009688; }
+.btn-download span:nth-child(15) { color: #e63946; }
+.btn-download span:nth-child(16) { color: #70726f; }
+.btn-download span:nth-child(17) { color: #a8dadc; }
