@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+* {
+    font-size: 25px;
+}
+
+.navbar-brand {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.navbar-brand span {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.navbar-brand span:nth-child(1) { color: #e63946; }
+.navbar-brand span:nth-child(2) { color: #70726f; }
+.navbar-brand span:nth-child(3) { color: #a8dadc; }
+.navbar-brand span:nth-child(4) { color: #457b9d; }
+.navbar-brand span:nth-child(5) { color: #1d3557; }
+.navbar-brand span:nth-child(6) { color: #ff6f61; }
+.navbar-brand span:nth-child(7) { color: #6a0572; }
+.navbar-brand span:nth-child(8) { color: #ffcc00; }
+.navbar-brand span:nth-child(9) { color: #4caf50; }
+.navbar-brand span:nth-child(10) { color: #ff9800; }
+.navbar-brand span:nth-child(11) { color: #3f51b5; }
+.navbar-brand span:nth-child(12) { color: #795548; }
+.navbar-brand span:nth-child(13) { color: #9c27b0; }
+.navbar-brand span:nth-child(14) { color: #009688; }
+
+.navbar-brand span:hover {
+    transform: rotate(10deg) scale(1.1);
+}
+
