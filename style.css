@@ -38,3 +38,19 @@
     transform: rotate(10deg) scale(1.1);
 }
 
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    cursor: pointer;
+}
+.video-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.video-container video {
+    width: 100%;
+    height: auto;
+    display: none;
+}
